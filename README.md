@@ -53,10 +53,10 @@ JavaProject_MediaCatalog/
 
 ## How to Compile and Run
 
-- 1. Navigate to the project folder
-- 2. Compile the project
+### 1. Navigate to the project folder
+### 2. Compile the project
         javac -d out "src/models/.java" "src/services/.java" "src/app/*.java"
-- 3. Run the application
+### 3. Run the application
         java -cp out app.MediaApp
 
 
@@ -80,4 +80,5 @@ JavaProject_MediaCatalog/
 ---
 
 ## Author
+
 Adhikari Viswa Teja (24MIM10138)
